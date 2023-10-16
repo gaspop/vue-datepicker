@@ -52,7 +52,7 @@
     "dayjs": "1.8.24"
   },
   "peerDependencies": {
-    "core-js": "^2.6.5",
+    "core-js": "^3.23.3",
     "vue": "^2.6.10"
   },
   "devDependencies": {
@@ -71,20 +71,18 @@
     "@vue/cli-service": "^3.7.0",
     "@vue/eslint-config-standard": "^4.0.0",
     "@vue/test-utils": "1.0.0-beta.29",
-    "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^23.6.0",
     "babel-plugin-dynamic-import-node-babel-7": "^2.0.7",
     "codacy-coverage": "^3.4.0",
     "commitizen": "^4.1.2",
-    "core-js": "^2.6.5",
+    "core-js": "^3.23.3",
     "cssnano": "^4.1.10",
     "cz-customizable": "^6.2.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "husky": "^4.2.5",
     "mockdate": "^2.0.2",
-    "node-sass": "^4.14.1",
     "postcss-nested": "^4.2.1",
     "postcss-preset-env": "^6.7.0",
     "postcss-simple-vars": "^5.0.2",
@@ -98,7 +96,7 @@
     "rollup-plugin-terser": "^5.0.0",
     "rollup-plugin-visualizer": "^4.0.4",
     "rollup-plugin-vue": "4.2.0",
-    "sass": "^1.26.5",
+    "sass": "^1.58.3",
     "sass-loader": "^7.1.0",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
